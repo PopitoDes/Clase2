@@ -1,9 +1,9 @@
 {
     "id": "6B883318",
-    "path": "~/GitHub/Clase2/C2.qmd",
-    "project_path": "C2.qmd",
+    "path": "~/GitHub/Clase2/aaa.qmd",
+    "project_path": "aaa.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "4065243300",
     "contents": "",
     "dirty": false,
     "created": 1710876370369.0,
@@ -15,18 +15,18 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
+        "cursorPosition": "27,0",
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "549:348"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710876420,
+    "lastKnownWriteTime": 1710877136,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710876420744,
+    "last_content_update": 1710877136464,
     "read_only": false,
     "read_only_alternatives": []
 }
