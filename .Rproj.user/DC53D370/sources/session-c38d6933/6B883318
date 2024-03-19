@@ -3,7 +3,7 @@
     "path": "~/GitHub/Clase2/aaa.qmd",
     "project_path": "aaa.qmd",
     "type": "quarto_markdown",
-    "hash": "4065243300",
+    "hash": "1792564407",
     "contents": "",
     "dirty": false,
     "created": 1710876370369.0,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "549:348"
+        "rmdVisualModeLocation": "556:467"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710877136,
+    "lastKnownWriteTime": 1710877304,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710877136464,
+    "last_content_update": 1710877304767,
     "read_only": false,
     "read_only_alternatives": []
 }
