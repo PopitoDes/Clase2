@@ -4,7 +4,6 @@ format: html
 editor: visual
 bibliography: uah.bib
 link-citations: true
-
 ---
 
 ## AAA
@@ -25,3 +24,5 @@ Según almonacid [@almonacid-fierro2022] aaaaaaaaa
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+AA

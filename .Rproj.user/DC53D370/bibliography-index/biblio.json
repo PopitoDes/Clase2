@@ -129,6 +129,68 @@
             "title": "ACTIVIDAD FÍSICA Y OCIO Y SU RELACIÓN CON EL ÍNDICE DE RUFFIER EN ADOLESCENTES",
             "type": "article-journal",
             "volume": "15"
+        },
+        {
+            "DOI": "10.32641/andespediatr.v93i3.4349",
+            "URL": "https://www.revistachilenadepediatria.cl/index.php/rchped/article/view/4349",
+            "author": [
+                {
+                    "family": "Almonacid-Fierro",
+                    "given": "Alejandro"
+                },
+                {
+                    "family": "González-Almonacid",
+                    "given": "Javier"
+                }
+            ],
+            "container-title": "Andes Pediatrica",
+            "id": "almonacid-fierro2022",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        6,
+                        10
+                    ]
+                ]
+            },
+            "page": "440",
+            "title": "Obesidad infantil: Repercusiones post-pandemia y el factor escuela",
+            "title-short": "Obesidad infantil",
+            "type": "article-journal",
+            "volume": "93"
+        },
+        {
+            "DOI": "10.32641/andespediatr.v93i3.4349",
+            "URL": "https://www.revistachilenadepediatria.cl/index.php/rchped/article/view/4349",
+            "author": [
+                {
+                    "family": "Almonacid-Fierro",
+                    "given": "Alejandro"
+                },
+                {
+                    "family": "González-Almonacid",
+                    "given": "Javier"
+                }
+            ],
+            "container-title": "Andes Pediatrica",
+            "id": "almonacid-fierro2022a",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        6,
+                        10
+                    ]
+                ]
+            },
+            "page": "440",
+            "title": "Obesidad infantil: Repercusiones post-pandemia y el factor escuela",
+            "title-short": "Obesidad infantil",
+            "type": "article-journal",
+            "volume": "93"
         }
     ],
     "project_biblios": []

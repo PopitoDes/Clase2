@@ -2,6 +2,8 @@
 title: "Untitled"
 format: html
 editor: visual
+bibliography: uah.bib
+link-citations: true
 ---
 
 ## Quarto
@@ -9,6 +11,8 @@ editor: visual
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
+
+[@almonacid-fierro2022a] a a a aa
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
@@ -30,4 +34,4 @@ The `echo: false` option disables the printing of code (only output is displayed
 
 aaaaa
 
-kkk
+kkk aaa
