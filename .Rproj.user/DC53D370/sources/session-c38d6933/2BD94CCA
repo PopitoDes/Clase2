@@ -3,9 +3,9 @@
     "path": "~/GitHub/Clase2/qqq.qmd",
     "project_path": "qqq.qmd",
     "type": "quarto_markdown",
-    "hash": "1371702869",
+    "hash": "3403482073",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1710878808592.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "15,0",
+        "cursorPosition": "21,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "186:67"
+        "rmdVisualModeLocation": "298:167"
     },
     "folds": "",
     "lastKnownWriteTime": 1710879118,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710879118436,
+    "last_content_update": 1710879255456,
     "read_only": false,
     "read_only_alternatives": []
 }
