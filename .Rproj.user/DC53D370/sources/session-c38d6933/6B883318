@@ -1,9 +1,9 @@
 {
     "id": "6B883318",
-    "path": "~/GitHub/Clase2/aaa.qmd",
-    "project_path": "aaa.qmd",
+    "path": "~/GitHub/Clase2/buenas.qmd",
+    "project_path": "buenas.qmd",
     "type": "quarto_markdown",
-    "hash": "1792564407",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1710876370369.0,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "556:467"
+        "rmdVisualModeLocation": "559:467"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710877304,
+    "lastKnownWriteTime": 1710877385,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710877304767,
+    "last_content_update": 1710877385409,
     "read_only": false,
     "read_only_alternatives": []
 }
